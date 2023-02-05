@@ -30,5 +30,5 @@ You can download the pre- trained models from following links.
 2. deploy_gender.prototxt: is the model architecture for the gender detection model (a plain text file with a JSON-like structure containing all the neural network layer’s definitions). Download: https://drive.google.com/file/d/1AW3WduLk1haTVAxHOkVS_BEzel1WXQHP/view
 3. age_net.caffemodel: It is the pre-trained model weights for age detection. Download: https://drive.google.com/file/d/1kiusFljZc9QfcIYdU2s7xrtWHTraHwmW/view
 4. deploy_age.prototxt: is the model architecture for the age detection model (a plain text file with a JSON-like structure containing all the neural network layer’s definitions). Download: https://drive.google.com/file/d/1kWv0AjxGSN0g31OeJa02eBGM0R_jcjIl/view
-5. res10_300x300_ssd_iter_140000_fp16.caffemodel: The pre-trained model weights for face detection. Download:  
+5. res10_300x300_ssd_iter_140000_fp16.caffemodel: The pre-trained model weights for face detection.   
 6. deploy.prototxt.txt: This is the model architecture for the face detection model. https://raw.githubusercontent.com/opencv/opencv/master/samples/dnn/face_detector/deploy.prototxt
